@@ -15,5 +15,5 @@ Steps to start the project:
 
 For more details, contact us:
 1. Ganesh Baskaran: 9790648017, ganeshkarur1704@gmail.com
-2. Hariharan Venkatraman: 7169861837, hariharanvenkatraman23@gmail.com
+2. Hariharan Venkatraman: +17169861837, hariharanvenkatraman23@gmail.com
 3. Esha Gopalakrishnan: 7867007677, esha1252002@gmail.com
