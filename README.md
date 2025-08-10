@@ -307,7 +307,7 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 **Hariharan Venkatraman** - Project Lead Developer
 - 📧 Email: hariharanvenkatraman23@gmail.com
-- 📱 Phone: +91 6380635538
+- 📱 Phone: +1 (716)986-1837
 - 🐙 GitHub: [@hariharan2302](https://github.com/hariharan2302)
 
 **Esha Gopalakrishnan** - Hardware Integration
