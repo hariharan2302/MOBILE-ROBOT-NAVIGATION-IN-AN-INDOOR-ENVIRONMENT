@@ -301,11 +301,11 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 ### Project Team
 
-**Ganesh Baskaran** - Project Lead
+**Ganesh Baskaran** - Design Engineer
 - 📧 Email: ganeshkarur1704@gmail.com
 - 📱 Phone: +91 9790648017
 
-**Hariharan Venkatraman** - Lead Developer
+**Hariharan Venkatraman** - Project Lead Developer
 - 📧 Email: hariharanvenkatraman23@gmail.com
 - 📱 Phone: +91 6380635538
 - 🐙 GitHub: [@hariharan2302](https://github.com/hariharan2302)
